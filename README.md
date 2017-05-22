@@ -1,10 +1,3 @@
-![](media/image1.png){width="9.895833333333334in"
-height="4.259027777777778in"}
-
-*Prepared for*
-
-SEAL
-
 7-Nov-16
 
 Version 1.0
@@ -13,11 +6,6 @@ Version 1.0
 
 **Manav Gupta**
 
-Reviewers
-
-**Andy Isley**
-
-**Arshad Ali\
 **
 
 1.  []{#_Toc466308514 .anchor}Overview
