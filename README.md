@@ -8,7 +8,7 @@ Version 1.0
 
 **
 
-1.  []{#_Toc466308514 .anchor}Overview
+1.  Overview
 
 > **Problem**
 >
