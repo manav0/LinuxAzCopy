@@ -43,8 +43,7 @@ Version 1.0
 > manner. This blog presents simple CLI based scripts to transfer files
 > from Linux to Azure.
 
-1.  [[]{#_Toc466308515 .anchor}]{#_Toc383165759 .anchor}Azure CLI
-    Installation
+1.  Azure CLI Installation
 
 > X-Plat CLI command line tool is implemented in JavaScript (powered by
 > Node.js). CLI is powered by Node.js application framework which makes
@@ -202,7 +201,7 @@ V.  When you log in with the azure login command, your CLI profile and
 
 <!-- -->
 
-1.  []{#_Toc466308517 .anchor}Capabilities supported
+1.  Capabilities supported
 
 > As you noticed above, to run this script, simply type the script file
 > name in the bash console and supply three command line parameters-
@@ -501,7 +500,7 @@ info: Setting subscription " subscription-007" as default
 
 info: login command OK
 
-1.  []{#_Toc466308523 .anchor}certificate authentication
+1.  certificate authentication
 
 Use following steps to authenticate with Azure Active Directory using an
 application Service Principal and certificate credential:
@@ -879,7 +878,7 @@ Use below command to perform script service login with certificate auth.
 "\$appId" --certificate-file "myscriptappcert.pem" --thumbprint
 "\$cert-thumbprint" --tenant "\$tenantId"***
 
-1.  []{#_Toc466308524 .anchor}References
+References
 
 <!-- -->
 
