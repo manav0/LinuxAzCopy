@@ -111,7 +111,7 @@ V.  When you log in with the azure login command, your CLI profile and
 
 <!-- -->
 
-1.  []{#_Toc466308516 .anchor}Running the script to upload to Azure
+1.  Running the script to upload to Azure
 
 > Running the script involves following steps:
 
@@ -288,7 +288,7 @@ involves following broad steps:
 
     <!-- -->
 
-    1.  []{#_Toc466308522 .anchor}password authentication
+    1.  password authentication
 
 Steps to create service principal and login using service principal
 using sample parameters:
